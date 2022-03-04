@@ -1,0 +1,17 @@
+.container{
+    width : 35% !important;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(170, 169, 169);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+input{
+    width : 90%;
+}
+.btn{
+    width : 100px;
+    height : 50px;    
+}
+
+
